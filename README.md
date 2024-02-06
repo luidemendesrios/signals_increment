@@ -1,16 +1,6 @@
 # signals_increment
 
-A new Flutter project.
+Aplicação padrão de incremento de valor do Flutter usando a gerencia de estado Signals.
 
-## Getting Started
+![Captura de tela 2024-02-06 105929](https://github.com/luidemendesrios/signals_increment/assets/66266273/cf46481b-c6b9-4660-b253-868bbb92fd02)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
